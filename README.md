@@ -19,3 +19,4 @@ This is a simple React app that fetches random GIFs from the Giphy API based on 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
