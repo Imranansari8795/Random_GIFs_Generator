@@ -1,8 +1,21 @@
-# React + Vite
+This is a simple React app that fetches random GIFs from the Giphy API based on a tag.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Fetches random GIFs using Giphy API.
+- Display GIFs in a React component.
+- User can refresh to get a new random GIF.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React
+- Giphy API
+
+- ## Usage
+
+- A random GIF will be displayed on the screen.
+- Click the refresh button to fetch a new random GIF.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
